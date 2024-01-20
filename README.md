@@ -3,13 +3,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python: 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/release)
 [![Pygame: 2.0.0+](https://img.shields.io/badge/Pygame-2.0.0%2B-orange.svg)](https://www.pygame.org)
-[![GitHub issues](https://img.shields.io/github/issues/your-username/game-of-life-pygame)](https://github.com/your-username/game-of-life-pygame/issues)
-[![GitHub stars](https://img.shields.io/github/stars/your-username/game-of-life-pygame)](https://github.com/your-username/game-of-life-pygame/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/game-of-life-pygame)](https://github.com/your-username/game-of-life-pygame/network)
-[![GitHub contributors](https://img.shields.io/github/contributors/your-username/game-of-life-pygame)](https://github.com/your-username/game-of-life-pygame/graphs/contributors)
-[![GitHub last commit](https://img.shields.io/github/last-commit/your-username/game-of-life-pygame)](https://github.com/your-username/game-of-life-pygame/commits/main)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/your-username/game-of-life-pygame)](https://github.com/your-username/game-of-life-pygame/pulls)
-[![GitHub release](https://img.shields.io/github/release/your-username/game-of-life-pygame)](https://github.com/your-username/game-of-life-pygame/releases)
 
 <img width="599" alt="Window" src="https://github.com/JimmyVS/Game-Of-Life/assets/96888699/b209b32f-15a3-41dc-ae63-537f2b050546">
 
