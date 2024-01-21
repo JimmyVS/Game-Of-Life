@@ -19,13 +19,13 @@ To run the simulation, follow these steps:
 `pip install pygame`
 
 Clone this repository to your local machine:
-`git clone https://github.com/your-username/game-of-life-pygame.git`
+`git clone https://github.com/JimmyVS/Game-Of-Life.git`
 
 Navigate to the project directory:
-`cd game-of-life-pygame`
+`cd Game-Of-Life`
 
 Run the game_of_life.py script:
-`python game_of_life.py`
+`python Game_Of_Life.py`
 
 ## Controls
 | Controls | Actions |
