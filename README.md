@@ -28,7 +28,7 @@ Run the game_of_life.py script:
 `python Game_Of_Life.py`
 
 ## Controls
-| Controls | Actions |
+| Keys/Clicks | Actions |
 | ------------- | ------------- |
 | Left Click | Place cells |
 | Right Click | Place a "glider" pattern |
